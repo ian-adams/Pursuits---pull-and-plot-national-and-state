@@ -16,3 +16,5 @@ Key functions:
 Batch export writes to:
 1. output/national/pursuit_national.png and .pdf
 2. output/states/pursuit_<state>.png and .pdf
+
+Note: FARS is fatal crashes only. So “injuries” is not the total injuries that occur during all pursuits, but “non fatal injuries that occur when there’s at least one fatality involved” – think pursued driver is killed, but passenger only injured.
